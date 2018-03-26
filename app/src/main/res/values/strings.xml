@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="delete_all">Delete all</string>
+    <string name="empty_view_title_text">Empty Catalog</string>
+    <string name="empty_view_subtitle_text">to add items click on the button below</string>
+    <string name="action_save">Save Product</string>
+    <string name="name_text_view">NAME:</string>
+    <string name="price_text_view">PRICE:</string>
+    <string name="quantity_text_view">QUANTITY:</string>
+    <string name="supplier_info">SUPPLIER INFO:</string>
+    <string name="order_from_supplier">ORDER FROM SUPPLIER:</string>
+    <string name="delete_entry">DELETE ENTRY:</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price:</string>
+    <string name="current_quantity">Quantity:</string>
+    <string name="sell_product">SELL</string>
+    <string name="new_product_label">Add new Product</string>
+    <string name="edit_product_label">Edit Product</string>
+    <string name="delete">Delete</string>
+    <string name="delete_product">Delete this product?</string>
+    <string name="product_deleted11">Product deleted</string>
+    <string name="cancel1">Cancel</string>
+    <string name="fill_out">fill out all values</string>
+    <string name="add_image">add image</string>
+    <string name="info_needed">info needed</string>
+    <string name="insert_failed">Insert failed</string>
+    <string name="insert_successful">Insert Successful</string>
+    <string name="edit_failed">Edit Failed</string>
+    <string name="edit_successful">Edit Successful</string>
+    <string name="list_item_price">0</string>
+    <string name="list_item_quantity">0</string>
+</resources>
